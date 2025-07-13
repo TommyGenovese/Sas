@@ -91,7 +91,7 @@ public abstract class Personnel {
         this.indirizzo = indirizzo;
     }
 
-    public boolean isDisponibilita() {
+    public boolean isAvailable() {
         return disponibilita;
     }
 
