@@ -28,6 +28,7 @@
 /home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/persistence/BatchUpdateHandler.java
 /home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/persistence/EventPersistence.java
 /home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/businesslogic/CatERing.java
+/home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/businesslogic/event/Hiring.java
 /home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/persistence/MenuPersistence.java
 /home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/businesslogic/event/Owner.java
 /home/tommaso/Desktop/Unito/SaS/Progetto/catering/src/main/java/catering/businesslogic/user/User.java
