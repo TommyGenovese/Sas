@@ -15,7 +15,7 @@ public class Assignment {
     private Date dataScadenza;
 
     // Riferimenti ad altre classi come da DCD
-    private Need need;  //da implementare ancora
+    //private Need need;  //da implementare ancora
     private Personnel personnel;
 
     public Assignment() {
